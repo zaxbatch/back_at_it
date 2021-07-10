@@ -40,5 +40,12 @@
     ]
   }
  
+},
+{
+  "hosting": {
+    "site": "zaxbackatit",
+    "public": "public",
+    
+  }
 }
 }
