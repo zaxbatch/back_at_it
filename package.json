@@ -1,7 +1,7 @@
 {
-  "name": "back_at_it",
-  "version": "0.1.0",
-  "private": true,
+    "name": "back_at_it",
+    "version": "0.1.0",
+    "private": true,
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -26,7 +26,7 @@
     ]
   },
 
-},
+
   "browserslist": {
     "production": [
       ">0.2%",
@@ -39,13 +39,11 @@
       "last 1 safari version"
     ]
   }
- 
-},
-{
-  "hosting": {
-    "site": "zaxbackatit",
-    "public": "public",
-    
-  }
+
+
+
+
+
+
 }
-}
+

@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "zaxbackatit",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
